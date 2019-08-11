@@ -17,7 +17,7 @@ REACT_APP_GITHUB_CLIENT_SECRET = 'your_client_secret_here'
 
 ## Deployment
 
-You can also visit the site at [](explore-github.netlify.com)
+You can also visit the site at explore-github.netlify.com to view the project.
 
 ## Built Using
 
