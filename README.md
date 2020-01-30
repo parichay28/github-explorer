@@ -1,6 +1,8 @@
 # Github Explorer
 
 React based application where you can search github users and view basic profile details with the help of Github API.
+Visit [here](https://explore-github.netlify.com/) to and have a look.
+
 
 ## How to run
 
